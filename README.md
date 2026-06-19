@@ -9,31 +9,48 @@
 ---
 
 ## 🧑‍💻 About Me
+
+> 💡 AI + Full-Stack Developer @ Hansung University (Web Engineering & Mobile Software)
+>
+> 🔭 Building **뉴뉴 (NewNew)** — YouTube 뉴스 편향 분석 플랫폼
+>
+> 💼 Building **Job Is** — AI 기반 대학생 커리어 로드맵 플랫폼
+>
+> 🧠 Korean NLP · KoELECTRA Fine-tuning · Spring Boot · FastAPI
+>
+> 📱 SwiftUI iOS Development
+>
+
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### Backend
+**Backend**
+
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Frontend & Mobile
+**Frontend & Mobile**
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-### AI / NLP
+**AI / NLP**
+
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-### Database & Infra
+**Database & Infra**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
 
 </div>
 
@@ -43,8 +60,8 @@
 
 | 프로젝트 | 설명 | 스택 |
 |---------|------|------|
-| 🗞️ **뉴뉴 (NewNew)** | YouTube 영상 분석 플랫폼. KoELECTRA 파인튜닝 (F1=0.9551) | KoELECTRA · Spring Boot · FastAPI · Qdrant |
-| 💼 **Job Is** | AI 기반 대학생 커리어 로드맵 플랫폼 | React Flow · Spring Boot · Neo4j · pgvector |
+| 🗞️ **뉴뉴 (NewNew)** | YouTube 뉴스 편향 분석 플랫폼 · KoELECTRA F1=0.9551 | KoELECTRA · Spring Boot · FastAPI · Qdrant |
+| 💼 **Job Is** | AI 기반 대학생 커리어 로드맵 | React Flow · Spring Boot · Neo4j · pgvector |
 
 ---
 
